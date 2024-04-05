@@ -16,7 +16,7 @@ const Signup = () => {
     result = await result.json();
     console.warn(result);
   };
-  console.log("shivam");
+
   return (
     <div className="register">
       <h1>Register</h1>

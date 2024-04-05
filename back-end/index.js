@@ -1,5 +1,5 @@
 const express = require("express");
-const cos = require("cors");
+const cors = require("cors");
 const connectDb = require("./utlis/db");
 const User = require("./utlis/User");
 
